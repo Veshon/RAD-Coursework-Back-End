@@ -2,5 +2,30 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
-  }
+  },
+  "name": "rad-course-work---back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "prisma": "^6.3.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veshon/RAD-Coursework-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Veshon/RAD-Coursework-Back-End/issues"
+  },
+  "homepage": "https://github.com/Veshon/RAD-Coursework-Back-End#readme",
+  "description": ""
 }
